@@ -1,0 +1,6 @@
+.allposts{
+    display: flex;
+}
+.post{
+    align-items: center;
+}
